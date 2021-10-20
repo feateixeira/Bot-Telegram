@@ -1,0 +1,25 @@
+{
+  "name": "neoenergi_bot",
+  "version": "1.0.0",
+  "description": "Bot feito usando biblioteca telegraf para empresa neo energia brasilia",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feteixeira/Neo_Bot.git"
+  },
+  "author": "Fellipe A. // Luiz M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feteixeira/Neo_Bot/issues"
+  },
+  "homepage": "https://github.com/feteixeira/Neo_Bot#readme",
+  "dependencies": {
+    "knex": "^0.95.11",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14",
+    "telegraf": "^4.4.2"
+  }
+}
